@@ -1,7 +1,7 @@
 function navigateTo(tab, url, afterUpdate) {
   chrome.tabs.update(tab.id, { url: url });
   const runAfterUpdate = function() {
-    if (afterUpdate) {
+    if (typeof afterUpdate === "function") {
       afterUpdate();
     }
     chrome.tabs.onUpdated.removeListener(runAfterUpdate);
@@ -24,10 +24,8 @@ chrome.browserAction.onClicked.addListener(function(tab) {
         chrome.tabs.executeScript(tab.id, { file: "getRandomUnvotedEntry.js" }, function(results) {
 
           // navigate to the unvoted entry
-          const entryId = results[0];
-          navigateTo(tab, `https://battleofthebits.com/arena/Entry//${entryId}`);
-          //const entryLink = results[0];
-          //navigateTo(tab, entryLink);
+          const entryLink = results[0];
+          navigateTo(tab, entryLink);
         });
       });
     });
