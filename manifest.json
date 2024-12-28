@@ -14,5 +14,11 @@
       "persistent": false
   },
 
-  "permissions": ["activeTab"]
+  "permissions": [
+      "activeTab",
+      "tabs",
+      "notifications",
+      "http://*/",
+      "https://*/"
+  ]
 }
