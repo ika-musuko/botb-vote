@@ -6,7 +6,7 @@ once installed, this should lower the barrier of entry to getting some voting do
 
 ## how 2 use this???
 ### video
-https://www.youtube.com/watch?v=wq9D_VsUQxo
+[youtube link](https://www.youtube.com/watch?v=wq9D_VsUQxo)
 
 ### prerequisites
 - browser supporting manifest v2 extensions. tested on chrome but should work on firefox too
