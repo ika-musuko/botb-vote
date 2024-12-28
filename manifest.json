@@ -5,10 +5,14 @@
   "version": "1.0",
   "description": "takes you to a random unvoted entry from major battles",
 
-  "content_scripts": [
-      {
-          "matches": ["*://*.battleofthebits.com/*"],
-          "js": ["randomVote.js"]
-      }
-  ]
+  "browser_action": {
+      "default_title": "VOTE!"
+  },
+
+  "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+  },
+
+  "permissions": ["activeTab"]
 }
