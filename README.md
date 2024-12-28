@@ -7,11 +7,6 @@ once installed, this should lower the barrier of entry to getting some voting do
 
 ## how 2 use this???
 ### video
-
-
-https://github.com/user-attachments/assets/cd1917bb-0c90-4310-b44e-28021599fac9
-
-
 [youtube link](https://www.youtube.com/watch?v=wq9D_VsUQxo)
 
 ### prerequisites
