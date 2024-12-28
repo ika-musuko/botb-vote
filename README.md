@@ -1,3 +1,4 @@
+![icon128](https://github.com/user-attachments/assets/b79642b1-9c2d-49a6-a00e-3e89f33d602c)
 # botb-vote
 ## i'm 12 and what is this
 this is a manifest v2 browser extension that takes you to a random unvoted major battle entry on battleofthebits.org.
@@ -6,6 +7,11 @@ once installed, this should lower the barrier of entry to getting some voting do
 
 ## how 2 use this???
 ### video
+
+
+https://github.com/user-attachments/assets/cd1917bb-0c90-4310-b44e-28021599fac9
+
+
 [youtube link](https://www.youtube.com/watch?v=wq9D_VsUQxo)
 
 ### prerequisites
