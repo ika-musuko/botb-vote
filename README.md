@@ -52,3 +52,4 @@ TODO
 
 ## contribution
 just open an issue or make a pr lol
+or comment on this thread https://battleofthebits.com/academy/GroupThread/41803/VOTE+ON+RANDOM+MAJOR+BATTLE+ENTRIES+-+botb-vote+web+extension/
