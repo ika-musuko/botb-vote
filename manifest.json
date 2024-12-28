@@ -5,6 +5,11 @@
   "version": "1.0",
   "description": "takes you to a random unvoted entry from major battles",
 
+  "icons": {
+      "48": "icon48.png",
+      "128": "icon128.png"
+  },
+
   "browser_action": {
       "default_title": "VOTE!"
   },
