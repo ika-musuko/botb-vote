@@ -43,7 +43,7 @@ TODO
     3. a random unvoted entry
   - if it doesn't work just click it again
 4. vote!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-  a. if you dont want to vote on the entry selected for you, simply click the "VOTE" icon again!
+  - if you dont want to vote on the entry selected for you, simply click the "VOTE" icon again!
 
 ## todo
 - firefox instructions
